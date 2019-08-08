@@ -1,0 +1,10 @@
+property
+    file
+        name:application.properties
+myprop
+    test1:test1 in application.yml
+    test2:test2 in application.yml
+    test3:test3 in application.yml
+    test4:test4 in application.yml
+    test5:test5 in application.yml
+    test6:test6 in application.yml
